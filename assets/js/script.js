@@ -25,7 +25,21 @@ $(function () {
   // TODO: Add code to display the current date in the header of the page.
 });
 
+/*---------------------------------------
+Today's date
+id="currentDay" class="lead"
+dayjs('2019-01-25').toDate()
+ get a copy of the native Date object parsed from the Day.js object use dayjs#toDate.
 
+*/
+
+/*--------------------
+Time blocks
+<div id="hour-9" class="row time-block past">
+<div id="hour-10" class="row time-block present">
+<div id="hour-11" class="row time-block future">
+
+var = hour
 
 
 

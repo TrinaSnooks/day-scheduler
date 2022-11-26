@@ -1,13 +1,10 @@
-# day-scheduler
-# 
-Challenge 5
+# Challenge 5 - day-scheduler
 
-
-
+<https://trinasnooks.github.io/day-scheduler/>
 
 ## Description
 
-scheduler
+The purpose of the project is to create a daily scheduler. Where past time blocks are greyed out, current time block is pink and future time blocks are green.
 
 ## User Story
 
@@ -40,30 +37,20 @@ The following animation demonstrates the application functionality:
 <!-- @TODO: create ticket to review/update image) -->
 ![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/05-third-party-apis-homework-demo.gif)
 
-
-
 ## Usage
-
-
 
 Screenshots:
 
-    
+
     ![screenshot 1]((assets/images/screenshot-1.png)
     ![screenshot 2]((assets/images/screenshot-2.png)
-    
-
-  
+    ![screenshot 3]((assets/images/screenshot-3.png)
+    ![screenshot 4]((assets/images/screenshot-4.png)
+    ![screenshot 5]((assets/images/screenshot-5.png)
+    ![screenshot 6]((assets/images/screenshot-6.png)
 
 ## Credits
 
-
-
-
-
 ## Features
-
-
-
-
-
+- record and keep daily schedule with the use of local storage
+- use day.js to indicate date
